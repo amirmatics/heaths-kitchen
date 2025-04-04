@@ -1,0 +1,16 @@
+body {
+    font-family:Verdana, Tahoma, sans-serif
+}
+.top {
+    text-align: center;
+}
+ul {
+    box-sizing: border-box;
+    border: 7px solid purple;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+}
+li {
+    display: inline;
+}
