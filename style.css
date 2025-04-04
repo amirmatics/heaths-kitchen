@@ -9,12 +9,17 @@ ol {
     margin: 10px;
     padding: 20px;
     border: 2px solid purple;
+    background-color:lightpink;
 }
 
 .top {
     text-align: center;
     color:purple;
     font-weight:bold;
+    border: 2px solid darkblue;
+    background-color:lightcyan;
+    margin: 5px 20px 5px;
+    padding: 20px;
 }
 .main-menu {
     box-sizing: border-box;
