@@ -13,13 +13,14 @@ ol {
 }
 
 .top {
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     color:purple;
     font-weight:bold;
     border: 2px solid darkblue;
     background-color:lightcyan;
     margin: 5px 20px 5px;
-    padding: 20px;
+    padding: 5px;
 }
 .main-menu {
     box-sizing: border-box;
@@ -29,5 +30,12 @@ ol {
     text-align: center;
 }
 .inline {
-    display: inline;
+    display: inline-block;
+}
+.spacer {
+    display: block;
+    box-sizing: border-box;
+    outline: 5px solid purple;
+    width: 200px; /* adjust fixed width when replacing TBD text */
+    margin-left: 70px;
 }
