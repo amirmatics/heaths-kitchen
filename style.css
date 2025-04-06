@@ -32,10 +32,11 @@ ol {
 .inline {
     display: inline-block;
 }
-.spacer {
+.spacer { /* divider */
     display: block;
     box-sizing: border-box;
     outline: 5px solid purple;
     width: 200px; /* adjust fixed width when replacing TBD text */
     margin-left: 70px;
+    margin-right: auto;
 }
